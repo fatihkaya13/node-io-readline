@@ -1,9 +1,8 @@
-# NodeJS Console Read, Input - Output
+# NodeJS Console Read - Input - Output
 
 ## An example for reading input from console and processing the input
 
 ### Working with file
-* In your Mac terminal or Windows powershell then please type the following
 
 ```
 node io_multiply
